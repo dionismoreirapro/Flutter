@@ -1,2 +1,2 @@
 # Flutter
-Repositório para estudo de flutter
+Repositório para estudo de flutter.
